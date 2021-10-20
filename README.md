@@ -20,3 +20,5 @@ Hozirgi holatda ilovada oltita sahifa mavjud bo'lib, ular quyida "Screenshot" or
 
 <img src="https://raw.githubusercontent.com/BahromjonPolat/Quiz-App/main/assets/screenshots/quiz.jpg" alt="quiz_page"> </br>
 <b>Quiz sahifasi.</b> Bu sahifada foydalanuvchi o'yin o'ynashi mumkin. Har bir topilgan to'g'ri javob uchun foydalanuvchinig umumiy baliga 1 baldan qo'shib boriladi.
+
+<a href="https://github.com/BahromjonPolat/Quiz-App/blob/main/assets/apk/app-release.apk?raw=true">Ilovani yuklab olish</a>
