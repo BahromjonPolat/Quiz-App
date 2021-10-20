@@ -9,7 +9,7 @@ Hozirgi holatda ilovada oltita sahifa mavjud bo'lib, ular quyida "Screenshot" or
 <p>
 <img src="https://raw.githubusercontent.com/BahromjonPolat/Quiz-App/main/assets/screenshots/register.jpg" alt="register_page"  width="48%">
 <img src="https://raw.githubusercontent.com/BahromjonPolat/Quiz-App/main/assets/screenshots/login.jpg" alt="login_page"  width="48%"> </br>
-<b>Ro'yxatdan o'tish va login sahifalari.</b> Bu sahifalar orqali foydalanuvchi tizimga kiradi. Agar fodalanuvchi yangi bo'lsa, ro'yxatdan o'tish sahifasi orqali ro'yxatdan o'tadi. Agar avval ro'yxatdan o'tgan bo'lsa, email va parollarini kirtib sahifasiga kirishi mumkin. Sahifaga kirish uchun "Fake" foydalanuvchilar ham mavjud.</p></br>
+<b>Ro'yxatdan o'tish va login sahifalari.</b> Bu sahifalar orqali foydalanuvchi tizimga kiradi. Agar fodalanuvchi yangi bo'lsa, ro'yxatdan o'tish sahifasi orqali ro'yxatdan o'tadi. Agar avval ro'yxatdan o'tgan bo'lsa, email va parollarini kirtib sahifasiga kirishi mumkin. Sahifaga kirish uchun <a href="https://github.com/BahromjonPolat/Quiz-App/blob/main/lib/data/fake_quiz_list.dart">"Fake" foydalanuvchilar</a> ham mavjud.</p></br>
 
 
 <img src="https://raw.githubusercontent.com/BahromjonPolat/Quiz-App/main/assets/screenshots/discover.jpg" alt="discover_page"> </br>
