@@ -46,9 +46,10 @@ class _QuizPageState extends State<QuizPage> {
             child: GridView.builder(
               itemCount: 4,
               gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                  mainAxisSpacing: 12.0,
-                  crossAxisSpacing: 12.0,
-                  crossAxisCount: 2),
+                mainAxisSpacing: 12.0,
+                crossAxisSpacing: 12.0,
+                crossAxisCount: 2,
+              ),
               itemBuilder: (context, index) {
                 return GestureDetector(
                   onTap: () {
